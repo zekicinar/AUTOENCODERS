@@ -1,4 +1,4 @@
-In this folder, you will find examples about autoencoders. For protection of reference blog’s rights, I do not add images and weights which are given by them. I just add some of results from my notebooks. Keywords and concepts of notebooks are given below : 
+In this folder, you will find examples about autoencoders. For protection of reference blog’s rights(https://pyimagesearch.com/), I do not add images and weights which are given by them. I just add some of results from my notebooks. Keywords and concepts of notebooks are given below : 
 
 
 1.)	Intro to anomaly detection with OpenCV : Isolation forest model, anomaly detection with histogram and opencv
